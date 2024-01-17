@@ -9,7 +9,7 @@
 <p>Creating a Sinthesized voice with AWS Polly: <a href="./aws-polly.ipynb">Notebook Link</a></p>
 
 
-You can listen to the audio example by clicking [aqui](/speech.mp3):
+You can listen to the audio example by clicking [here](/speech.mp3) or listening here:
 
 <audio controls>
   <source src="/speech.mp3" type="audio/mp3">
