@@ -6,7 +6,7 @@
 <p>Deep Learning Model to: <b>Convert Text to Speech (Polly)</b><p>
 </div>
 
-<p>Creating a Sinthesized voice with AWS Polly: <a href="./aws-polly.ipynb">Link para o Notebook</a></p>
+<p>Creating a Sinthesized voice with AWS Polly: <a href="./aws-polly.ipynb">Notebook Link</a></p>
 
 
 You can listen to the audio example by clicking [aqui](/speech.mp3):
